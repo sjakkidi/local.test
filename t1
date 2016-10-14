@@ -3,3 +3,13 @@
 echo "Whats your name :"
 read name
 echo "Hello $name"
+
+echo "what is your age"
+read age
+
+if [$age > 10 ]
+	then
+echo " Your so sweet"
+else
+echo "you grown up"
+fi
