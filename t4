@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "enter the number : "
+read num
+
+print ($num * 10);
+echo "the value is "
+
+
