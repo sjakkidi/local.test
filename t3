@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "Login to Devops with your user ID  :"
+read ID
+
+if [ "$ID"="Sandeep"] then
+echo "Welcome to the Devops"
+else 
+echo "ID doesn't match"
+fi
